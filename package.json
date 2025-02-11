@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-prisma-orm-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jhon Arcila Castano",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^6.3.1"
+  }
+}
